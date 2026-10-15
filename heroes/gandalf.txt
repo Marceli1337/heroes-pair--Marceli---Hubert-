@@ -1,0 +1,4 @@
+imie: Gandalf
+świat: władca pierścieni
+cechy: mądry
+
